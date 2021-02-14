@@ -4,10 +4,10 @@
 
 I developed a full stack web application to report, assign and track the work orders for the activity center in my university. The Tech stack I used for developing this application are:
 
-### Frontend: HTML5, JSP
-### Backend: Java
-### Database: MySQL
-### Testing Frameworks: JUnit 4, Selenium WebDriver, Selenium IDE
+#### Frontend: HTML5, JSP
+#### Backend: Java
+#### Database: MySQL
+#### Testing Frameworks: JUnit 4, Selenium WebDriver, Selenium IDE
 
 - The entire application was built using the **MVC Design Pattern**.
 - The view for the application was developed using HTML 5 and JSP pages.
